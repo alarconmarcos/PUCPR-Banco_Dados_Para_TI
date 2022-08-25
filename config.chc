@@ -1,0 +1,11 @@
+#Config
+#Sat Sep 18 09:34:45 BRT 2021
+cfg.tipodefault=0
+cfg.apagartextoaoeditar=false
+cfg.mostrardimensoesaomover=true
+cfg.location.salvar=false
+cfg.mostrargrade=true
+cfg.location.x=12
+cfg.ancorador=false
+cfg.recentes=C\:\\Users\\Marcos\\Dropbox\\Particular\\Educa\u00E7\u00E3o\\PUC-PR\\Analise e Desenvolvimento de Sistemas\\2\u00BA Semestre\\1\u00BA Bimestre\\Banco de Dados para Tecnologia da Informa\u00E7\u00E3o\\Somativa 2\\Modelo_Conceitual.brM3;C\:\\Users\\Marcos\\Downloads\\Lanchonete_.brM3;C\:\\Users\\Marcos\\Dropbox\\Particular\\Educa\u00E7\u00E3o\\PUC-PR\\Analise e Desenvolvimento de Sistemas\\2\u00BA Semestre\\1\u00BA Bimestre\\Banco de Dados para Tecnologia da Informa\u00E7\u00E3o\\Somativa_1.brM3;C\:\\Users\\Marcos\\Dropbox\\Particular\\Educa\u00E7\u00E3o\\PUC-PR\\Analise e Desenvolvimento de Sistemas\\Modulo 2\\1 Bimestre\\Banco de Dados para Tecnologia da Informa\u00E7\u00E3o\\ATIVIDADE FORMATIVA\: Semana 2.brM3;C\:\\Users\\Marcos\\Dropbox\\Particular\\Educa\u00E7\u00E3o\\PUC-PR\\Analise e Desenvolvimento de Sistemas\\Modulo 2\\1 Bimestre\\Banco de Dados para Tecnologia da Informa\u00E7\u00E3o\\Conceitual_Biblioteca.brM3;C\:\\Users\\Marcos\\Dropbox\\Particular\\Educa\u00E7\u00E3o\\PUC-PR\\Analise e Desenvolvimento de Sistemas\\Modulo 2\\1 Bimestre\\Banco de Dados para Tecnologia da Informa\u00E7\u00E3o\\Conceitual_Supermercado.brM3
+cfg.location.y=14
